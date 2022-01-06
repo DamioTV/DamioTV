@@ -12,7 +12,7 @@
 <br />
 
 ### The programs i use
-- Visual Studio 2022 &ensp;![Visual studio 2022](https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2018/10/Visual-Studio-Logo.png)
-- Visual Studio Code &ensp;![Visual studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
-- Unity &ensp;![Unity](https://upload.wikimedia.org/wikipedia/commons/c/c6/Unity_Hub_Logo.png)
-- IDA PRO &ensp;![Unity](https://whtaguy.com/assets/img/posts/ida_pro_research_tools.png)
+- Visual Studio 2022 &ensp;![Visual studio 2022]()
+- Visual Studio Code &ensp;![Visual studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
+- Unity &ensp;![Unity]()
+- IDA PRO &ensp;![Unity]()
