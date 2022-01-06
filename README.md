@@ -19,7 +19,7 @@
 ----
 
 ### The programs i use 💻
-- Visual Studio 202
+- Visual Studio 2022
 - Visual Studio Code
 - IDA PRO
 
