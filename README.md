@@ -30,4 +30,3 @@
 ### GitHub Satats
 
 - &ensp;![stats](https://github-readme-stats.vercel.app/api?username=DamioTV&theme=blue-green)
-- &ensp;![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DamioTV&theme=blue-green)
