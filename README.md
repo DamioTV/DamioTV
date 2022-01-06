@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! i'm DamioTV 👋
 
-<!--
-**DamioTV/DamioTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a beginner programmer and student, in the future I would like to work in GameDev 🎮
+- My birthday is on April 12th
+- I am working on small programs
+- I am learning C#, C++ and Python
+- I like drawing and playing computer games
 
-Here are some ideas to get you started:
+### Concontact with me
+- DamioTV#2706 <- DISCORD
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+- Visual Studio 2022
+- Visual Studio Code
+- Unreal Engine
+- Unity
+- IDA PRO
