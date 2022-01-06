@@ -2,6 +2,7 @@
 
 ## I am a beginner programmer and student 🎮
 
+
 ----
 
 - My birthday is on April 12th 🎂
@@ -25,3 +26,7 @@
 - IDA PRO
 
 ----
+
+### GitHub Satats
+
+- &ensp;![stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
